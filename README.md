@@ -18,4 +18,3 @@ To get started with the C++ scripts:
 1, Clone the repository:
    ```bash
    git clone https://github.com/yourusername/cpp-scripts.git
-    ```
